@@ -1,0 +1,38 @@
+body{
+    background-color:#f3ca52;
+}
+.main{
+    display: block;
+    width: 370px;
+    height: 1600px;
+    border: 1px white;
+    padding: 30px;
+    background-color:#F6E9B2;
+    border-radius: 15px;
+    position: relative;
+    margin-left: 1000px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+img{
+    display: block;
+    width: 370px;
+    height:370px;
+    border-radius: 15px;
+
+}
+h2{
+    color:#A91D3A;
+}
+h1{
+    color:#C73659;
+}
+.pre{
+    display: block;
+    width: 310px;
+    height: 160px;
+    border: 1px white;
+    border-radius: 15px;
+    padding: 30px;
+    background-color:antiquewhite;
+}
